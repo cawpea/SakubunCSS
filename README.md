@@ -1,5 +1,7 @@
 # SakubunCSS
 
+![SakubunCSS Sample Image](https://raw.githubusercontent.com/masaki-ohsumi/SakubunCSS/master/other/SampleImage.png)
+
 ## 概要
 
 いわゆる作文のためのCSSです。
